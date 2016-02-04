@@ -1,20 +1,14 @@
 {
-  "name": "pure-prompt",
+  "name": "pure-prompt-mattbailey",
   "version": "1.3.0",
   "description": "Pretty, minimal and fast ZSH prompt",
   "license": "MIT",
-  "repository": "sindresorhus/pure",
+  "repository": "mattbailey/pure",
   "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
+    "name": "Matt Bailey",
+    "email": "m@mdb.io",
+    "url": "m@mdb.io"
   },
-  "maintainers": [
-    {
-      "name": "Mathias Fredriksson",
-      "url": "github.com/mafredri"
-    }
-  ],
   "engines": {
     "node": ">=0.10.0"
   },
